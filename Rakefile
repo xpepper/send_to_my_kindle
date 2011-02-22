@@ -15,8 +15,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "send_to_my_kindle"
   gem.homepage = "http://github.com/xpepper/send_to_my_kindle"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{A useful tool for Kindle users}
+  gem.description = %Q{will send some public newspapers to your Kindle}
   gem.email = "pietro.dibello@xpeppers.com"
   gem.authors = ["Pietro Di Bello"]
   # Include your dependencies below. Runtime dependencies are required when using your gem,
