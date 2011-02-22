@@ -1,6 +1,6 @@
 = send_to_my_kindle
 
-Description goes here.
+Yet to be written...
 
 == Contributing to send_to_my_kindle
  
